@@ -4,13 +4,13 @@ This Data Includes 4-year span i.e from 2020 - 2024 weather data of Telangana St
 
 ### Data Description:
 
-#### District: This column identifies the district in which the weather data was recorded, providing geographical context.
-#### Mandal: A more localized identifier within the district, the Mandal column gives detailed information about the specific area of data collection.
-#### Date: This column records the date of the weather observation, allowing for time-series analysis.
-#### Rain (mm): This column indicates the amount of rainfall measured in millimeters. It helps in understanding precipitation patterns and trends.
-#### Min Temp (°C): The minimum temperature recorded in degrees Celsius. This helps in analyzing the lowest temperature trends.
-#### Max Temp (°C): The maximum temperature recorded in degrees Celsius. This provides insights into the highest temperature trends.
-#### Min Humidity (%): This column records the minimum humidity percentage, giving insights into the driest conditions.
-#### Max Humidity (%): The maximum humidity percentage, providing information about the most humid conditions.
-#### Min Wind Speed (Kmph): The minimum wind speed recorded in kilometers per hour, highlighting the calmest wind conditions.
-#### Max Wind Speed (Kmph): The maximum wind speed recorded in kilometers per hour, showing the windiest conditions.
+#### 1.District: This column identifies the district in which the weather data was recorded, providing geographical context.
+#### 2.Mandal: A more localized identifier within the district, the Mandal column gives detailed information about the specific area of data collection.
+#### 3.Date: This column records the date of the weather observation, allowing for time-series analysis.
+#### 4.Rain (mm): This column indicates the amount of rainfall measured in millimeters. It helps in understanding precipitation patterns and trends.
+#### 5.Min Temp (°C): The minimum temperature recorded in degrees Celsius. This helps in analyzing the lowest temperature trends.
+#### 6.Max Temp (°C): The maximum temperature recorded in degrees Celsius. This provides insights into the highest temperature trends.
+#### 7.Min Humidity (%): This column records the minimum humidity percentage, giving insights into the driest conditions.
+#### 8.Max Humidity (%): The maximum humidity percentage, providing information about the most humid conditions.
+#### 9.Min Wind Speed (Kmph): The minimum wind speed recorded in kilometers per hour, highlighting the calmest wind conditions.
+#### 10.Max Wind Speed (Kmph): The maximum wind speed recorded in kilometers per hour, showing the windiest conditions.
