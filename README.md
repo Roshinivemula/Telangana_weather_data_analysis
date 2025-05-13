@@ -1,6 +1,7 @@
 # Telangana_weather_data_analysis
 
-This Data Includes 4-year span i.e from 2020 - 2024 weather data of Telangana State, after merging all datasets of 4 years the data having 7,20,500 rows with the following data columns.
+This Data Includes 4-year span i.e from 2020 - 2024 weather data of Telangana State, after merging all datasets of 4 years the data having 7,20,500 rows with the following data columns. Created a Power Bi report by solving the questions in the document.
+https://docs.google.com/document/d/19lPIYxhA65-48j2003jwnZmGT5gFANuwm8JaMnCfTOs/edit?usp=drive_link
 
 ### Data Description:
 
